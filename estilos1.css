@@ -1,5 +1,6 @@
 body{
     background-color: #212121;
+    color: #fff;
 }
 
 img{
@@ -23,6 +24,7 @@ seccion2{
 
 p{
     color: #fff;
+    
 }
 
 sec2{
@@ -30,5 +32,18 @@ sec2{
 }
 
 #imginf{
-    max-width: 400px;
+    max-width: 100%;
 }
+
+iframe{
+    height: 500px;
+    width: 500px;
+    max-width: 100%;
+}
+
+table tr:hover{
+    
+   background-color: #fff;
+    color: black;
+}
+
